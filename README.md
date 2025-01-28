@@ -1,2 +1,2 @@
-# CS_HW
-Homework of the course "Introduction to Computer Science"
+# Introduction of Computer Science Homework
+
